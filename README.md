@@ -1,5 +1,6 @@
-# POI-COT-MDN-
+# POI-COT-MDN
 Webmap using FOSS
 ## CONTACT ME :D
-Jack Edward Pecision
 jackedwardpecision@gmail.com
+### 
+Sa youtube ko po to natutunan lahat. Explore lang po sa webmap. SHUKRAN!
